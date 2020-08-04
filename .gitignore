@@ -1,0 +1,11 @@
+node_modules
+dist
+
+# Local Netlify folder
+.netlify
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
