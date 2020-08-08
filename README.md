@@ -1,4 +1,4 @@
-# Kanban board
+# Open Kanban
 
 Distributed Kanban board that stores data in Gun
 
@@ -6,8 +6,6 @@ Distributed Kanban board that stores data in Gun
 
 ![GitHub Logo](docs/screenshot.png)
 
-[demo](https://open-kanban.netlify.app/)
+[Open Kanban Demo](https://open-kanban.netlify.app/)
 
-Esteban Fuster Pozzi / @estebanrfp
-
-[desarrolloactivo.com](https://desarrolloactivo.com)
+Powered by [Esteban Fuster Pozzi / @estebanrfp](https://desarrolloactivo.com)
