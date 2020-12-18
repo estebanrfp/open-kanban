@@ -16,7 +16,7 @@
     "@babel/core": "^7.12.10",
     "@babel/node": "^7.12.10",
     "@babel/polyfill": "^7.12.1",
-    "@babel/preset-env": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
     "autoprefixer": "^9.8.6",
     "babel-loader": "^8.2.2",
     "brotli-webpack-plugin": "^1.1.0",
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "gun": "^0.2020.520",
-    "marked": "^1.2.6",
+    "marked": "^1.2.7",
     "turndown": "^6.0.0"
   }
 }
