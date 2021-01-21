@@ -9,8 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Esteban Fuster Pozzi / @estebanrfp",
-  "license": "ISC",
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
