@@ -41,27 +41,27 @@
     "css-loader": "5.2.6",
     "css-minimizer-webpack-plugin": "3.0.1",
     "es6-promise": "^4.2.8",
-    "eslint": "7.28.0",
+    "eslint": "7.29.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "5.1.0",
     "eslint-plugin-standard": "^5.0.0",
     "html-loader": "^2.1.2",
-    "html-webpack-plugin": "5.3.1",
+    "html-webpack-plugin": "5.3.2",
     "mini-css-extract-plugin": "1.6.0",
     "nodemon": "^2.0.7",
     "optimize-css-assets-webpack-plugin": "^6.0.0",
     "rimraf": "^3.0.2",
     "ts-loader": "9.2.3",
-    "typescript": "4.3.2",
-    "webpack": "5.38.1",
+    "typescript": "4.3.4",
+    "webpack": "5.40.0",
     "webpack-cli": "4.7.2",
     "workbox-webpack-plugin": "6.1.5"
   },
   "dependencies": {
     "gun": "^0.2020.1232",
-    "marked": "2.0.7",
+    "marked": "2.1.2",
     "turndown": "7.0.0"
   }
 }
