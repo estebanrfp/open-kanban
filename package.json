@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "gun": "^0.2020.1235",
-    "marked": "3.0.7",
+    "marked": "4.0.10",
     "turndown": "7.1.1"
   }
 }
